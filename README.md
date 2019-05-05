@@ -1,0 +1,2 @@
+# AI-based-CCTV-Camera-thinQbator
+This project indtoduce a machine leanring and Fuzzy logic based analysis program for Real-Time CCTV camera. It will detect unknown persons at front door Also included other functionalities like weapon detection, family member creation etc. Project is carried out at Cisco's tingQbator lab @ Indian Institute Of Information Technology and Management - Kerala. Project is funded by cisco and NASSCOM. Advanced level development of project is on progress.
